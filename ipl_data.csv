@@ -1,0 +1,11 @@
+Match_ID,Team,Opponent,Runs,Wickets,Venue
+1,CSK,MI,185,6,Mumbai
+2,MI,CSK,172,8,Chennai
+3,RCB,KKR,198,5,Bangalore
+4,KKR,RCB,176,7,Kolkata
+5,CSK,RCB,190,4,Bangalore
+6,MI,KKR,165,9,Mumbai
+7,RCB,MI,202,3,Mumbai
+8,KKR,CSK,181,6,Chennai
+9,CSK,KKR,195,5,Kolkata
+10,MI,RCB,178,7,Bangalore
